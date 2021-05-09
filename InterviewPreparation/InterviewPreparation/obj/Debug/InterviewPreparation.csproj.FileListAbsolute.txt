@@ -1,0 +1,7 @@
+D:\DotNetByVickypedia\InterviewPreparation\InterviewPreparation\InterviewPreparation\bin\Debug\InterviewPreparation.exe.config
+D:\DotNetByVickypedia\InterviewPreparation\InterviewPreparation\InterviewPreparation\bin\Debug\InterviewPreparation.exe
+D:\DotNetByVickypedia\InterviewPreparation\InterviewPreparation\InterviewPreparation\bin\Debug\InterviewPreparation.pdb
+D:\DotNetByVickypedia\InterviewPreparation\InterviewPreparation\InterviewPreparation\obj\Debug\InterviewPreparation.csprojAssemblyReference.cache
+D:\DotNetByVickypedia\InterviewPreparation\InterviewPreparation\InterviewPreparation\obj\Debug\InterviewPreparation.csproj.CoreCompileInputs.cache
+D:\DotNetByVickypedia\InterviewPreparation\InterviewPreparation\InterviewPreparation\obj\Debug\InterviewPreparation.exe
+D:\DotNetByVickypedia\InterviewPreparation\InterviewPreparation\InterviewPreparation\obj\Debug\InterviewPreparation.pdb
